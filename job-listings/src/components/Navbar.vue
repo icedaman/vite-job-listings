@@ -23,7 +23,7 @@ const isActiveLink = (routePath) => {
               >Vue Jobs</span
             >
           </RouterLink>
-          <div class="md:ml-auto">
+          <div class="md:ml-auto font-semibold">
             <div class="flex space-x-2">
               <RouterLink
                 to="/"
